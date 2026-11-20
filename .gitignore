@@ -2,6 +2,14 @@
 .env
 .env.*
 !.env.example
+*.pem
+*.key
+credentials.json
+**/secrets/
+
+# Model cards (generated from model_runs)
+docs/model_cards/*
+!docs/model_cards/.gitkeep
 
 # Data (keep the .gitkeep placeholders)
 data/raw/*

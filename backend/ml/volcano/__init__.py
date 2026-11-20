@@ -1,0 +1,1 @@
+"""Module 4 — volcanic activity (EONET + Smithsonian GVP): timelines and profile clustering. No eruption forecasting."""

@@ -1,0 +1,8 @@
+# bbox order everywhere: [west, south, east, north], EPSG:4326
+regions:
+  attica:
+    name: Attica and Evia, Greece
+    bbox: [22.8, 37.6, 24.6, 39.1]
+    firms_sources: [VIIRS_SNPP_SP, VIIRS_SNPP_NRT]   # archive first, near-real-time after the archive ends
+    rain:
+      bbox: [23.2, 37.8, 24.2, 38.5]                 # 10 x 7 = 70 IMERG 0.1° cells

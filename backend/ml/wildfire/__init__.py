@@ -1,0 +1,1 @@
+"""Module 1 — wildfires (NASA FIRMS): DBSCAN hotspot clustering and Isolation Forest anomaly ranking."""

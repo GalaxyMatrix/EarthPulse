@@ -1,0 +1,1 @@
+"""Shared ML infrastructure (geometry, evaluation, model cards). Never shared models."""

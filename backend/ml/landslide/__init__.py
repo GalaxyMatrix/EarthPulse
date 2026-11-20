@@ -1,0 +1,1 @@
+"""Module 5 — landslides (EONET + NASA Global Landslide Catalog): features, clustering, trigger classification."""
